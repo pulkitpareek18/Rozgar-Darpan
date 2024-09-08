@@ -5,7 +5,4 @@ const router = express.Router();
 
 router.put("/jobapi", jobApi);
 
-
 export default router;
-
-
